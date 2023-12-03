@@ -18,3 +18,6 @@ Utilize o seguinte comando para abrir a interface do Cypress:
 
 ```bash
 npx cypress open
+
+
+### O PageObject ta na pasta suport
